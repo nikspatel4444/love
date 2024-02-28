@@ -1,0 +1,28 @@
+body{
+    background: #93a5ec;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80%;
+}
+.main-div div{
+    border-radius: 50px;
+    background: #8aa0f4;
+    box-shadow:  34px 34px 35px #5e6da6,-34px -34px 35px #b6d3ff;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+.fa-solid  {
+    font-size: 190px;
+}
+.fa-regular{
+    font-size: 190px;
+}
+.audio{
+    display: flex;
+    justify-content: center;
+}
